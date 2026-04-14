@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.construlocjosebonifacio.com.br/sitemap.xml
